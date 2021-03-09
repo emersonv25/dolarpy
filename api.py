@@ -33,7 +33,7 @@ def dolarParaReal(dolar):
 def pingpong(num):
     return testeUnidade_valorNumerico(num)
 
-#print(pingpong('a'))
+print(pingpong('a'))
 
 
         

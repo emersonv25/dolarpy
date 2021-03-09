@@ -10,10 +10,10 @@ def main():
             
             if opc == 1:
 
-                formulario('Quantos Reais você deseja converter em dolar ?\n:', realParaDolar, f'R$ FUNCnum1 equivalem a U$ FUNCnum2')
+                formulario('Quantos Reais você deseja converter em dolar ?\n:', realParaDolar, 'R$ FUNCnum1 equivalem a U$ FUNCnum2')
                 
             elif opc == 2:
-                formulario('Quantos Dolares você deseja converter em Reais ?\n:', dolarParaReal, f'U$ FUNCnum1 equivalem a R$ FUNCnum2')
+                formulario('Quantos Dolares você deseja converter em Reais ?\n:', dolarParaReal, 'U$ FUNCnum1 equivalem a R$ FUNCnum2')
                 
             elif opc == 0:
                 break
