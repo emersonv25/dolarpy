@@ -1,4 +1,4 @@
-# CRIADORES: EMERSON E MATHEUS
+# CRIADORES: EMERSON E MATHEU
 from api import *
 
 def main():
